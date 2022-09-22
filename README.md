@@ -3,6 +3,9 @@
 
 ## Setup
 
+    # install pyenv if needed
+    curl https://pyenv.run | bash
+
     # create a python we'll use with jupyter
     pyenv install 3.10.7
     pyenv virtualenv 3.10.7 notebooks-jupyter
