@@ -70,3 +70,16 @@ Links:
 * [Jupyter Audio Basics](https://www.geeksforgeeks.org/plotting-various-sounds-on-graphs-using-python-and-matplotlib/)
 * [Putting it all together graph, sound, animation!](https://jupyter.brynmawr.edu/services/public/dblank/jupyter.cs/Sonification/putting%20it%20all%20together%20with%20sound%20version%202.ipynb)
 * [Building Tools to Interact With Your Data](https://www.scottcondron.com/jupyter/visualisation/audio/2020/10/21/interactive-audio-plots-in-jupyter-notebook.html)
+
+### Rusty Audio
+
+* [fundsp](https://github.com/SamiPerttu/fundsp)
+
+---
+
+## TODO
+
+* Audio support for evcxr
+  - https://github.com/google/evcxr/tree/main/evcxr_jupyter
+  - https://crates.io/crates/showata
+  
