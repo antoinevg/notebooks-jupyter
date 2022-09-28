@@ -21,6 +21,7 @@
 
     # install some packages to use in our notebooks
     pip install matplotlib scipy
+    pip install drawSvg
 
 ## Rust Kernel Setup
 
@@ -52,18 +53,12 @@ Links:
 
 ## Useful docs
 
-### evcxr
+### Jupyter
 
-* [evcxr common usage information](https://github.com/google/evcxr/blob/main/COMMON.md)
-* [evcxr notebook](https://github.com/google/evcxr/blob/main/evcxr_jupyter/samples/evcxr_jupyter_tour.ipynb)
+* [Subject Matter Authoring](https://opencomputinglab.github.io/SubjectMatterNotebooks/intro.html)
+* [Jupyter Notebooks Gallery](https://notebook.community/)
 
-### Plotting
-
-* [plotly notebook](https://igiagkiozis.github.io/plotly/content/fundamentals/jupyter_support.html)
-* [plotters](https://crates.io/crates/plotchart#trying-with-jupyter-evcxr-kernel-interactively)
-* [plotters notebook](https://plotters-rs.github.io/plotters-doc-data/evcxr-jupyter-integration.html)
-
-### Audio
+### Python: Audio
 
 * [SciPy.signal](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.chirp.html)
 * [Plotting Various Sounds on Graphs using Python and Matplotlib](https://www.geeksforgeeks.org/plotting-various-sounds-on-graphs-using-python-and-matplotlib/)
@@ -71,7 +66,22 @@ Links:
 * [Putting it all together graph, sound, animation!](https://jupyter.brynmawr.edu/services/public/dblank/jupyter.cs/Sonification/putting%20it%20all%20together%20with%20sound%20version%202.ipynb)
 * [Building Tools to Interact With Your Data](https://www.scottcondron.com/jupyter/visualisation/audio/2020/10/21/interactive-audio-plots-in-jupyter-notebook.html)
 
-### Rusty Audio
+### Python: Images
+
+* [drawSvg](https://github.com/cduck/drawSvg)
+
+### Rust: evcxr
+
+* [evcxr common usage information](https://github.com/google/evcxr/blob/main/COMMON.md)
+* [evcxr notebook](https://github.com/google/evcxr/blob/main/evcxr_jupyter/samples/evcxr_jupyter_tour.ipynb)
+
+### Rust: Plotting
+
+* [plotly notebook](https://igiagkiozis.github.io/plotly/content/fundamentals/jupyter_support.html)
+* [plotters](https://crates.io/crates/plotchart#trying-with-jupyter-evcxr-kernel-interactively)
+* [plotters notebook](https://plotters-rs.github.io/plotters-doc-data/evcxr-jupyter-integration.html)
+
+### Rust: Audio
 
 * [fundsp](https://github.com/SamiPerttu/fundsp)
 
@@ -82,4 +92,3 @@ Links:
 * Audio support for evcxr
   - https://github.com/google/evcxr/tree/main/evcxr_jupyter
   - https://crates.io/crates/showata
-  
