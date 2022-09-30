@@ -74,6 +74,8 @@ Links:
 
 * [evcxr common usage information](https://github.com/google/evcxr/blob/main/COMMON.md)
 * [evcxr notebook](https://github.com/google/evcxr/blob/main/evcxr_jupyter/samples/evcxr_jupyter_tour.ipynb)
+* [Interactive Rust in a REPL and Jupyter Notebook with EVCXR](https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/)
+
 
 ### Rust: Plotting
 
