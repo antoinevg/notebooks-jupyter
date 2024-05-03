@@ -1,0 +1,5 @@
+jupyterlab
+matplotlib
+scipy
+drawSvg
+plotly
